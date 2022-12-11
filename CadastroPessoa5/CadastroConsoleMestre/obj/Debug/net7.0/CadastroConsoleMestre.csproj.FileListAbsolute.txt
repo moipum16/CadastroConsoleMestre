@@ -1,0 +1,15 @@
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\bin\Debug\net7.0\CadastroConsoleMestre.exe
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\bin\Debug\net7.0\CadastroConsoleMestre.deps.json
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\bin\Debug\net7.0\CadastroConsoleMestre.runtimeconfig.json
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\bin\Debug\net7.0\CadastroConsoleMestre.dll
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\bin\Debug\net7.0\CadastroConsoleMestre.pdb
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\CadastroConsoleMestre.csproj.AssemblyReference.cache
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\CadastroConsoleMestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\CadastroConsoleMestre.AssemblyInfoInputs.cache
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\CadastroConsoleMestre.AssemblyInfo.cs
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\CadastroConsoleMestre.csproj.CoreCompileInputs.cache
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\CadastroConsoleMestre.dll
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\refint\CadastroConsoleMestre.dll
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\CadastroConsoleMestre.pdb
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\CadastroConsoleMestre.genruntimeconfig.cache
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa5\CadastroConsoleMestre\obj\Debug\net7.0\ref\CadastroConsoleMestre.dll
